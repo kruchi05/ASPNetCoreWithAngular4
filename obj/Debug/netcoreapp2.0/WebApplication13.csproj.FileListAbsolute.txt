@@ -1,0 +1,10 @@
+C:\Users\RKalra\source\repos\WebApplication13\WebApplication13\bin\Debug\netcoreapp2.0\WebApplication13.deps.json
+C:\Users\RKalra\source\repos\WebApplication13\WebApplication13\bin\Debug\netcoreapp2.0\WebApplication13.runtimeconfig.json
+C:\Users\RKalra\source\repos\WebApplication13\WebApplication13\bin\Debug\netcoreapp2.0\WebApplication13.runtimeconfig.dev.json
+C:\Users\RKalra\source\repos\WebApplication13\WebApplication13\bin\Debug\netcoreapp2.0\WebApplication13.dll
+C:\Users\RKalra\source\repos\WebApplication13\WebApplication13\bin\Debug\netcoreapp2.0\WebApplication13.pdb
+C:\Users\RKalra\source\repos\WebApplication13\WebApplication13\obj\Debug\netcoreapp2.0\WebApplication13.csproj.CoreCompileInputs.cache
+C:\Users\RKalra\source\repos\WebApplication13\WebApplication13\obj\Debug\netcoreapp2.0\WebApplication13.AssemblyInfoInputs.cache
+C:\Users\RKalra\source\repos\WebApplication13\WebApplication13\obj\Debug\netcoreapp2.0\WebApplication13.AssemblyInfo.cs
+C:\Users\RKalra\source\repos\WebApplication13\WebApplication13\obj\Debug\netcoreapp2.0\WebApplication13.dll
+C:\Users\RKalra\source\repos\WebApplication13\WebApplication13\obj\Debug\netcoreapp2.0\WebApplication13.pdb
